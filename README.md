@@ -58,7 +58,7 @@ You’ll find all of these in my public repos soon...
 ## 📫 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/-@0xredanon-black?style=flat&logo=instagram)](https://instagram.com/imahdi.ar)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](media.mahdiaria@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:media.mahdiaria@gmail.com)
 
 ---
 
