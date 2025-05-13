@@ -41,20 +41,6 @@ I like breaking things, understanding how they work, and then building something
 
 ---
 
-## 🚧 Projects (Coming soon)
-
-🧪 I'm currently working on:
-
-- 🔐 A Bash-based reverse shell toolkit  
-- 🤖 An AI-powered Telegram chatbot (GPT-4 API)  
-- 🕵️‍♂️ A Python port scanner with custom stealth modes  
-- 📦 A C# password manager with local encryption  
-- 🧰 Go-based CLI tool for log analysis
-
-You’ll find all of these in my public repos soon...
-
----
-
 ## 📫 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/-@0xredanon-black?style=flat&logo=instagram)](https://instagram.com/imahdi.ar)
