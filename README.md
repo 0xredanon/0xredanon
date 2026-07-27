@@ -32,6 +32,7 @@ I like breaking things, understanding how they work, and then building something
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)  
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Php](https://img.shields.io/badge/-Php-333?style=flat&logo=Php)
 
 **Tools & Frameworks:**  
 - Flask, FastAPI, Echo (Go), ASP.NET  
