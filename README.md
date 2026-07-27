@@ -1,53 +1,192 @@
-<h1 align="center">Hi, I'm Redanon 👾</h1>
+<h1 align="center">👋 Hi, I'm Mahdi (Redanon)</h1>
+
 <p align="center">
-  💻 Offensive Security | 🤖 AI Explorer | 🧠 Self-Taught Dev <br/>
-  <i>"Let the code speak, and the silence scream."</i>
+  <b>💻 Backend Developer • 🔐 Network & Cybersecurity Student • 🤖 AI Enthusiast</b>
+</p>
+
+<p align="center">
+  Building secure applications, exploring systems, and turning ideas into real-world software.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=0xredanon&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/0xredanon?label=Followers&style=flat&color=blue" />
 </p>
 
 ---
 
 ## 🧬 About Me
 
-I’m a self-taught developer and cybersecurity enthusiast based in Abadan, Iran.  
-I like breaking things, understanding how they work, and then building something better from the ashes.  
+🎓 **Network & Cybersecurity Student**
 
-🧠 **Focus Areas**:
-- Ethical Hacking & Offensive Security  
-- AI & Machine Learning (Pythonic style)  
-- Automation & Tooling (Bash, Go, C#)  
-- Backend Dev & APIs (FastAPI, Echo, ASP.NET)  
-- Reverse Engineering & Malware Analysis (Learning...)
+💻 **Backend Developer**
 
-> Redanon is not a name. It’s a mindset. 👽
+🐍 Passionate about Python, PHP and secure software development.
 
----
+I enjoy understanding how systems work from the inside, building practical applications, and improving my skills through real-world projects.
 
-## 🛠 Skills
+### Currently focusing on:
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)  
-![C#](https://img.shields.io/badge/-C%23-333?style=flat&logo=csharp)  
-![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go)  
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)  
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Php](https://img.shields.io/badge/-Php-333?style=flat&logo=Php)
-
-**Tools & Frameworks:**  
-- Flask, FastAPI, Echo (Go), ASP.NET  
-- Git, Linux, Nmap, Metasploit, Wireshark  
-- OpenAI API, Sklearn, Pandas, BeautifulSoup  
-- VS Code, Ghidra, Burp Suite, Fiddler, Docker (در حال یادگیری)
+- 🐘 PHP Backend Development
+- 🐍 Python Programming
+- 🗄 Database Design & MySQL
+- 🔐 Web Security & Secure Coding
+- 🌐 Networking & TCP/IP
+- 🐧 Linux Systems
+- 🤖 AI-Assisted Development
 
 ---
 
-## 📫 Connect With Me
+# 🛠 Tech Stack
 
-[![Instagram](https://img.shields.io/badge/-@0xredanon-black?style=flat&logo=instagram)](https://instagram.com/imahdi.ar)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:media.mahdiaria@gmail.com)
+## 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,bash" />
+</p>
+
+
+## 🗄 Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+- PHP
+- MySQL
+- SQL Database Design
+- REST API Concepts
+- Authentication Systems
+- CRUD Applications
+
+
+## ⚙️ Tools & Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+</p>
+
+
+## 🔐 Cybersecurity & Networking
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+Knowledge areas:
+
+- TCP/IP Fundamentals
+- Network Concepts
+- Linux Administration
+- Web Security Basics
+- OWASP Top 10
+- Security Testing
+- Wireshark
+- Nmap
+- Burp Suite
+
+
+---
+
+# 🚀 Featured Projects
+
+## 🔐 User Management System
+
+**PHP + MySQL + JavaScript**
+
+A secure user management dashboard featuring:
+
+✅ Authentication System  
+✅ Role Based Access Control (RBAC)  
+✅ Admin Dashboard  
+✅ CSRF Protection  
+✅ Password Hashing  
+✅ Session Security  
+✅ Database Management  
+
+
+---
+
+## 🛒 E-Commerce Platform
+
+🚧 In Development
+
+Planned features:
+
+- Product Management
+- Shopping Cart
+- Order System
+- Admin Panel
+- Database Optimization
+
+
+---
+
+## 🐍 Python Projects
+
+Coming soon:
+
+- Automation Tools
+- Network Utilities
+- Security Related Scripts
+
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xredanon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xredanon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xredanon&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+---
+
+# 📚 Learning Journey
+
+Currently exploring:
+
+🌐 Advanced Backend Development  
+🔐 Secure Application Architecture  
+🐧 Linux & System Administration  
+🤖 Artificial Intelligence Integration  
+☁️ Cloud & Deployment Concepts  
+
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:media.mahdiaria@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/imahdi.ar">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+<b>Building. Learning. Securing. 🚀</b>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
